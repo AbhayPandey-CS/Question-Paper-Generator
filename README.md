@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/AbhayPandey-CS/Question-Paper-Generator.git`
 2. Install dependencies: `npm install`
 
 ## Run the Application
